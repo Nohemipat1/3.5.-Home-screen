@@ -63,7 +63,7 @@ Widget titulo() {
 
 Widget nombre() {
   return Text(
-    "Create from Luis Flores",
+    "Create from Nohemi robles",
     style: TextStyle(
       color: Colors.white,
       fontSize: 30.0,
